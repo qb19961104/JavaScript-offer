@@ -5,3 +5,4 @@ const obj={
     }
 };
 obj.fn();
+//输出undefined
